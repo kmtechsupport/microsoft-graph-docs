@@ -35,7 +35,17 @@ The following is a JSON representation of the resource.
 ```json
 {
   "basis": "String",
-  "averageScore": "Double"
+  "averageScore": "Double",
+  "appsScore": "Double",
+  "appsScoreMax":  "Double",
+  "dataScore": "Double",
+  "dataScoreMax": "Double",
+  "deviceScore":  "Double",
+  "deviceScoreMax":  "Double",
+  "identityScore":  "Double",
+  "identityScoreMax":  "Double",
+  "infrastructureScor "Double",
+  "infrastructureScoreM "Double"
 }
 
 ```
