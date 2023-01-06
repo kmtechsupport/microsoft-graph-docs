@@ -44,8 +44,8 @@ The following is a JSON representation of the resource.
   "deviceScoreMax":  "Double",
   "identityScore":  "Double",
   "identityScoreMax":  "Double",
-  "infrastructureScore: "Double",
-  "infrastructureScoreMax "Double"
+  "infrastructureScore": "Double",
+  "infrastructureScoreMax" "Double"
 }
 
 ```
